@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehbaz Khan</h1>
-<h3 align="center">A passionate Devops Engineer based in Singapore</h3>
+<h3 align="center">A passionate Software Engineer based in Singapore</h3>
 
 <p align="left"> <a href="https://twitter.com/shehbaz2812" target="blank"><img src="https://img.shields.io/twitter/follow/shehbaz2812?logo=twitter&style=for-the-badge" alt="shehbaz2812" /></a> </p>
 
